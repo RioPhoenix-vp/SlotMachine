@@ -3,7 +3,7 @@
 A classic 3-reel slot machine built in Unity. Pull the lever, watch the reels
 scroll and clunk to a stop, and try to line up three of a kind for the jackpot.
 
-![slot machine](docs/screenshot.png)
+![slot machine](Assets/Sprites/4tXlXs.gif)
 <!-- replace with a screenshot or gif of the running game -->
 
 ## Game Overview
