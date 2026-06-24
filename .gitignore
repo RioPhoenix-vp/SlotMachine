@@ -8,6 +8,7 @@
 /[Oo]bj/
 /[Bb]uild/
 !Build/WebGL/
+/[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
