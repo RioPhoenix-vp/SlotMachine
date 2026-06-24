@@ -7,7 +7,7 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
-/[Bb]uilds/
+!Build/WebGL/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
